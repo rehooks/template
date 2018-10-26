@@ -4,7 +4,7 @@ This repo will help you when contributing a new React Hook to the `rehooks` org.
 
 1. Clone this repository
 1. `cd` into it
-1. Run `./init.sh ../path/to/rehooks-desired-project-name`
+1. Run `./init.sh ../path/to/rehooks-desired-project-name` (run `./init.bat` if you are on windows)
 1. `cd` into that directory
 1. Open it up your editor
 1. Find-all occurences of "..." across the entire project
