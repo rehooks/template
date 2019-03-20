@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
-import use... from './';
+import use... from '../src';
 
 function App() {
   let value = use...();
